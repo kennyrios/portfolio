@@ -778,6 +778,10 @@ span{color: #cfdf9a}
     color: black !important;
 }
 
+.subject_title img{
+    width: 100px
+}
+
 
 .gradient{
       /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#191923+0,000000+100&0.65+0,0+100 */
@@ -793,8 +797,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6191923', e
 }
 
 .green{
-    background: #39ff1124;
+    background: #11f3ff2d;
     transition: all ease 0.5s;
+}
+
+.item a img{
+    width: 50px
 }
 
 
