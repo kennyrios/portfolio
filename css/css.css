@@ -748,6 +748,36 @@ span{color: #cfdf9a}
 
 }
 
+.subject2{
+    color: #d6d6d6;
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding:8% 10%;
+    position: relative;
+  
+  }
+
+  #Contact > .destacado:first-child{
+      padding-top:40px
+  }
+
+  .destacado a{
+      color:white;
+      text-decoration:none;
+  }
+
+  .button {
+    background: greenyellow;
+    padding: 10px;
+    border: none;
+    margin-top: 6px;
+    width: fit-content;
+    display: block;
+    color: black !important;
+}
+
 
 .gradient{
       /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#191923+0,000000+100&0.65+0,0+100 */
@@ -759,6 +789,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6191923', e
 
 .purple{
     background: #3e0144;
+    transition: all ease 0.5s;
+}
+
+.green{
+    background: #39ff1124;
     transition: all ease 0.5s;
 }
 

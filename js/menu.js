@@ -38,11 +38,23 @@ $(window).scroll(function() {
     var scroll = $(window).scrollTop();
 
      //>=, not <=
-    if (scroll >= 12000) {
+    if (scroll >= 12400) {
         //clearHeader, not clearheader - caps H
 		$(".subject").addClass("purple");
     }else {
         $(".subject").removeClass("purple");
+    }
+});
+
+$(window).scroll(function() {    
+    var scroll = $(window).scrollTop();
+
+     //>=, not <=
+    if (scroll >= 13200) {
+        //clearHeader, not clearheader - caps H
+		$(".subject2").addClass("green");
+    }else {
+        $(".subject2").removeClass("green");
     }
 });
 
