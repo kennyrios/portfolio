@@ -150,7 +150,7 @@ strong{
 }
 
 .logo_container{
-    margin: 20% auto 0 auto;
+    margin: 50% auto 0 auto;
 }
 .icon-logo{
         margin: -55px 0 -28px auto;
@@ -243,7 +243,7 @@ strong{
   100% { -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); } 
 }
 .section{
-      height: 100vh;
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -719,7 +719,7 @@ span{color: #cfdf9a}
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 80%;
+    width: 60%;
 }
 
 .coco,.rips{
