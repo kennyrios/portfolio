@@ -233,6 +233,10 @@ particlesJS("particles-js", {
                     .setTween("#parallax19 > div", {y: "50%", ease: Linear.easeNone, scale: 0.9})
                     .addTo(controller);
 
+                    new ScrollMagic.Scene({triggerElement: "#parallax20"})
+                    .setTween("#parallax20 > div", {y: "50%", ease: Linear.easeNone, scale: 0.9})
+                    .addTo(controller);
+
                       
 
                                         

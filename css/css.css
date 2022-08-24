@@ -114,6 +114,9 @@ strong{
 .traz-visual:before{content:'\0042';}
 .traz-editorial:before{content:'\0043';}
 .traz-music:before{content:'\0044';}
+a:hover{
+color:#c6d801!important;
+}
 
 .logo2{
     width: 110px;
